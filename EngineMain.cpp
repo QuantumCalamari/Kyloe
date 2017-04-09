@@ -2,6 +2,7 @@
 #include <GLFW\glfw3.h>
 
 #include "src\graphics\window.h"
+#include "src\input\keyHandler.h"
 
 int main() {
 
