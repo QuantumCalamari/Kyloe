@@ -70,6 +70,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="EngineMain.cpp" />
+    <ClCompile Include="src\graphics\window.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\graphics\window.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
