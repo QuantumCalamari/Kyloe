@@ -72,12 +72,10 @@
     <ClCompile Include="EngineMain.cpp" />
     <ClCompile Include="src\gameManager.cpp" />
     <ClCompile Include="src\graphics\window.cpp" />
-    <ClCompile Include="src\input\keyHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\gameManager.h" />
     <ClInclude Include="src\graphics\window.h" />
-    <ClInclude Include="src\input\keyHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
